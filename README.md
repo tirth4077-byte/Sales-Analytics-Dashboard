@@ -23,3 +23,28 @@ Olist Brazilian E-Commerce dataset using PostgreSQL and Power BI.
 - **Visualization:** Microsoft Power BI
 
 ## Project Structure
+├── schema.sql                  # Database schema (7 tables)
+├── rfm_segmentation.sql        # RFM customer segmentation
+├── sales_trend_analysis.sql    # Sales by month, region, category
+├── cohort_analysis.sql         # Customer retention cohort analysis
+├── kpi_views.sql               # Power BI ready KPI views
+└── screenshots/                # Power BI dashboard screenshots
+## Key Findings
+1. **Revenue Trend:** Monthly revenue grew from ~0.5M to 1.5M BRL between 2017-2018
+2. **Customer Segments:** ~76% of customers fall in Lost/Hibernating segments — typical for marketplace
+3. **Retention:** ~99% of customers are one-time buyers — acquisition > retention strategy recommended
+4. **Top Region:** São Paulo (SP) dominates with highest order volume and revenue
+5. **Best Day:** Monday generates highest revenue; weekends are slowest
+
+## Dashboard Preview
+### Page 1 — Sales Overview
+![Sales Overview](screenshots/page1_sales_overview.png)
+
+### Page 2 — Customer Segmentation
+![Customer Segmentation](screenshots/page2_customer_segmentation.png)
+
+### Page 3 — Regional Analysis
+![Regional Analysis](screenshots/page3_regional_analysis.png)
+
+### Page 4 — Cohort Retention
+![Cohort Retention](screenshots/page4_cohort_retention.png)
