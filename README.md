@@ -38,13 +38,13 @@ Olist Brazilian E-Commerce dataset using PostgreSQL and Power BI.
 
 ## Dashboard Preview
 ### Page 1 — Sales Overview
-![Sales Overview](screenshots/page1_sales_overview.png)
+![Sales Overview](page1_sales_overview.png)
 
 ### Page 2 — Customer Segmentation
-![Customer Segmentation](screenshots/page2_customer_segmentation.png)
+![Customer Segmentation](page2_customer_segmentation.png)
 
 ### Page 3 — Regional Analysis
-![Regional Analysis](screenshots/page3_regional_analysis.png)
+![Regional Analysis](page3_regional_analysis.png)
 
 ### Page 4 — Cohort Retention
-![Cohort Retention](screenshots/page4_cohort_retention.png)
+![Cohort Retention](page4_cohort_retention.png)
